@@ -1,3 +1,13 @@
+/*!
+ * Sass (SCSS) mixins you should be using in your projects
+ * Version: 1.0
+ *
+ *
+ * Copyright: sass-mixins
+ * https://github.com/Renatello/sass-mixins
+ *
+ */
+
 @mixin box-shadow ($values) {
   -webkit-box-shadow: $values;
      -moz-box-shadow: $values;
